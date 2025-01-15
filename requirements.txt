@@ -1,0 +1,10 @@
+Flask
+flask-cors
+yt-dlp
+requests
+librosa
+numpy
+pydub
+g4f
+lyricsgenius
+ffmpeg
